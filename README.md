@@ -45,7 +45,7 @@ This project leverages electronic health record (EHR) data to predict 30‑day h
 
 ## 5. Results & Metrics
 - **Best Cross‑Validation Accuracy (XGBoost):** 66.83%  
-- **Validation AUC (MedBERT):** 0.6645  
+- **Validation AUC (XGBoost):** 0.6645  
 - **Top Predictors:**  
   1. Number of diagnoses  
   2. Select lab values (e.g., serum metrics)  
